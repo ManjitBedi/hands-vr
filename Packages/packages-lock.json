@@ -50,7 +50,7 @@
       "source": "builtin",
       "dependencies": {
         "com.unity.xr.oculus": "3.2.3",
-        "com.unity.xr.openxr": "1.6.0"
+        "com.unity.xr.openxr": "1.7.0"
       }
     },
     "com.unity.ide.rider": {
